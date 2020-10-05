@@ -96,13 +96,12 @@
 #email-container a {
   color: var(--main-text-color);
   text-decoration: none;
-  max-width: 225px;
+  max-width: 200px;
 }
 
 #email-container ion-icon {
   color: var(--main-color);
   font-size: 20px;
-  margin-right: 5px;
   max-width: 20px;
 }
 
