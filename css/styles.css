@@ -11,9 +11,9 @@
   --main-color: #54B689;
   --main-text-color: #FFF;
   --border-color: #999;
-  --bio-bg-color: #1E2A3A;
-  --bio-border-color: #293544;
-  --about-bg-color: #111821;
+  --bio-bg-color: #1c304b;
+  --bio-border-color: #25303d;
+  --about-bg-color:#11223a;
 }
 
 /* General */
@@ -182,6 +182,7 @@
 .skills-box i {
   font-size: 45px;
   margin-right: 10px;
+  line-height: 1.15;
 }
 
 /* Mobile */
